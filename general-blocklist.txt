@@ -12,6 +12,7 @@ tracking.deepsearch.adlucent.com
 m-us.spaces.glanceapis.com
 
 # Meta
+graph.facebook.com
 graph-fallback.facebook.com
 
 # Google
