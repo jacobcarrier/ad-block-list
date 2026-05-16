@@ -1,0 +1,15 @@
+# General / Unsure what it is
+||insightfinderhub.com^
+||platform2026.com^
+
+# Amazon
+||media-amazon.com^
+
+# Meta
+||edge-mqtt.facebook.com^
+
+# Mobile Ads, I think?
+*tq-tungsten*
+||smaato.net^
+firebaseremoteconfig.googleapis.com
+firebaseremoteconfigrealtime.googleapis.com
