@@ -29,8 +29,5 @@ push.services.mozilla.com
 navigation.sr.roku.com
 osm-ads.delivery.roku.com
 
-# Tubi
-||adrise.tv^
-
 # Xfinity
 doh.xfinity.com
