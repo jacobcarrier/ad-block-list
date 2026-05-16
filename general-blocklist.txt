@@ -1,6 +1,3 @@
-# General RegEx
-*\.ai
-
 # General Broad Domain Blocks
 ||algolia.net^
 ||app-measurement.com^
