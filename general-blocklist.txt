@@ -1,0 +1,35 @@
+# General RegEx
+*\.ai
+
+# General Broad Domain Blocks
+||algolia.net^
+||app-measurement.com^
+||netskope.com^
+||prodregistryv2.org^
+
+# General Specific Domain Blocks
+tracking.deepsearch.adlucent.com
+m-us.spaces.glanceapis.com
+
+# Meta
+graph-fallback.facebook.com
+
+# Google
+appsgenaiserver-pa.clients6.google.com
+
+# Mozilla
+push.services.mozilla.com
+
+# Roku
+*(ads|captive|cloudservices|logs)\.roku\.com
+||rkdms.com^
+||sb.roku.com^
+||rokutime.com^
+navigation.sr.roku.com
+osm-ads.delivery.roku.com
+
+# Tubi
+||adrise.tv^
+
+# Xfinity
+doh.xfinity.com
