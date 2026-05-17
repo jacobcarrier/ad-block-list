@@ -1,3 +1,7 @@
+# TLDs
+# (Nothing against Anguilla)
+ai
+
 # General Broad Domain Blocks
 ||algolia.net^
 ||app-measurement.com^
