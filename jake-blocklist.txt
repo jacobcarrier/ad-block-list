@@ -9,7 +9,8 @@
 ||edge-mqtt.facebook.com^
 
 # Mobile Ads, I think?
-*tq-tungsten*.com
+^tungsten*amazon.dev
 ||smaato.net^
+||tq-tungsten.com^
 firebaseremoteconfig.googleapis.com
 firebaseremoteconfigrealtime.googleapis.com
