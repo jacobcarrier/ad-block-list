@@ -1,0 +1,15 @@
+# Google
+mail.google.com
+
+# Meta
+graph.facebook.com
+graph.instagram.com
+
+# Roku
+vod.delivery.roku.com
+
+# Streaming
+||adrise.tv^
+||xp-assets.aiv-cdn.net^
+||api.amazonvideo.com^
+tensor-cdn.production-public.tubi.io
