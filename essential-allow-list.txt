@@ -9,7 +9,7 @@ graph.instagram.com
 vod.delivery.roku.com
 
 # Streaming
-||adrise.tv^
-||xp-assets.aiv-cdn.net^
-||api.amazonvideo.com^
+@@||adrise.tv^
+@@||xp-assets.aiv-cdn.net^
+@@||api.amazonvideo.com^
 tensor-cdn.production-public.tubi.io
