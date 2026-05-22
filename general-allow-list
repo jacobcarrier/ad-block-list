@@ -2,15 +2,12 @@
 emergencyemail.org
 hgtvhome.sndimg.com
 ctrk.klclick.com
-||foodnetwork.com^
-||hgtv.com^
-||tlc.com^
+@@||foodnetwork.com^
+@@||hgtv.com^
+@@||tlc.com^
 
 # Amazon
-||amazon.com^
-
-# Google
-googleadservices.com
+@@||amazon.com^
 
 # Streaming
-||hulu.com^
+@@||hulu.com^
