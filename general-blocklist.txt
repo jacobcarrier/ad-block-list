@@ -1,7 +1,3 @@
-# TLDs
-# (Nothing against Anguilla)
-ai
-
 # General Broad Domain Blocks
 ||algolia.net^
 ||app-measurement.com^
@@ -23,8 +19,11 @@ appsgenaiserver-pa.clients6.google.com
 push.services.mozilla.com
 
 # Roku
-*(ads|captive|cloudservices|logs)\.roku\.com
 ||rkdms.com^
+||ads.roku.com^
+||captive.roku.com^
+||cloudservices.roku.com^
+||logs.roku.com^
 ||sb.roku.com^
 ||rokutime.com^
 navigation.sr.roku.com
