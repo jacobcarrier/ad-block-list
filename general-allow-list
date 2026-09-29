@@ -1,13 +1,21 @@
 # General
-emergencyemail.org
-hgtvhome.sndimg.com
-ctrk.klclick.com
 @@||foodnetwork.com^
 @@||hgtv.com^
 @@||tlc.com^
+emergencyemail.org
+hgtvhome.sndimg.com
+ctrk.klclick.com
 
 # Amazon
 @@||amazon.com^
+@@||api.amazonvideo.com^
+
+# Google
+googleadservices.com
+
+# Roku
+cloudservices.roku.com
+navigation.sr.roku.com
 
 # Streaming
 @@||hulu.com^
