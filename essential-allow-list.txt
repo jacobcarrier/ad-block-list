@@ -1,5 +1,9 @@
+# Dropbox
+d.dropbox.com
+
 # Google
 mail.google.com
+play-fe.googleapis.com
 
 # Meta
 graph.facebook.com
