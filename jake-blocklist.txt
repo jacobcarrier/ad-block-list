@@ -15,7 +15,6 @@ wa2-bid.adsrv.org
 content-autofill.googleapis.com
 fundingchoicemessages.google.com
 lamssettings-pa.googleapis.com
-play-fe.googleapis.com
 xga-serving-pa.googleapis.com
 
 # Meta
