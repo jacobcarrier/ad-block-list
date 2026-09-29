@@ -1,19 +1,21 @@
-# General Broad Domain Blocks
+# General
 ||algolia.net^
 ||app-measurement.com^
 ||netskope.com^
 ||prodregistryv2.org^
-
-# General Specific Domain Blocks
 tracking.deepsearch.adlucent.com
-m-us.spaces.glanceapis.com
+
+# Glance
+||glance.com^
+||glance-cdn.com^
+||glanceapis.com^
+
+# Google
+appsgenaiserver-pa.clients6.google.com
 
 # Meta
 graph.facebook.com
 graph-fallback.facebook.com
-
-# Google
-appsgenaiserver-pa.clients6.google.com
 
 # Mozilla
 push.services.mozilla.com
