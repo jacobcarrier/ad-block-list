@@ -1,10 +1,3 @@
-# General / Unsure what it is
-||insightfinderhub.com^
-||ipxserve.com^
-||dl.listdl.com^
-||platform2026.com^
-wa2-bid.adsrv.org
-
 # Amazon
 ||media-amazon.com^
 
@@ -12,6 +5,7 @@ wa2-bid.adsrv.org
 ||live-events.workers.bsky.app^
 
 # Google
+appsgenaiserver-pa.clients6.google.com
 fundingchoicemessages.google.com
 content-autofill.googleapis.com
 lamssettings-pa.googleapis.com
@@ -20,6 +14,8 @@ xga-serving-pa.googleapis.com
 # Meta
 ||edge-mqtt.facebook.com^
 ||i.instagram.com^
+graph.facebook.com
+graph-fallback.facebook.com
 
 # Microsoft
 ||bing.com^
@@ -35,8 +31,22 @@ xga-serving-pa.googleapis.com
 firebaseremoteconfig.googleapis.com
 firebaseremoteconfigrealtime.googleapis.com
 
+# Roku
+||rkdms.com^
+||ads.roku.com^
+||captive.roku.com^
+||cloudservices.roku.com^
+||logs.roku.com^
+||sb.roku.com^
+||rokutime.com^
+navigation.sr.roku.com
+osm-ads.delivery.roku.com
+
 # Square
 api-global.squareup.com
 
 # Temu
 ||temu.com^
+
+# Xfinity
+doh.xfinity.com
