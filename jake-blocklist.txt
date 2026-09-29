@@ -1,15 +1,43 @@
 # General / Unsure what it is
+||dl.listdl.com^
 ||insightfinderhub.com^
+||ipxserve.com^
 ||platform2026.com^
+wa2-bid.adsrv.org
 
 # Amazon
 ||media-amazon.com^
 
+# Bluesky
+||live-events.workers.bsky.app^
+
+# Google
+content-autofill.googleapis.com
+fundingchoicemessages.google.com
+lamssettings-pa.googleapis.com
+play-fe.googleapis.com
+xga-serving-pa.googleapis.com
+
 # Meta
 ||edge-mqtt.facebook.com^
+||i.instagram.com^
+
+# Microsoft
+||bing.com^
+||live.com^
 
 # Mobile Ads, I think?
+||applovin.com^
+||applvn.com^
+||inmobi.com^
 ||smaato.net^
 ||tq-tungsten.com^
+||yellowblue.io^
 firebaseremoteconfig.googleapis.com
 firebaseremoteconfigrealtime.googleapis.com
+
+# Square
+api-global.squareup.com
+
+# Temu
+||temu.com^
