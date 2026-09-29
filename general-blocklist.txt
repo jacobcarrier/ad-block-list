@@ -1,35 +1,19 @@
-# General
+# General / Unsure what it is
 ||algolia.net^
 ||app-measurement.com^
+||insightfinderhub.com^
+||ipxserve.com^
+||dl.listdl.com^
 ||netskope.com^
+||platform2026.com^
 ||prodregistryv2.org^
 tracking.deepsearch.adlucent.com
+wa2-bid.adsrv.org
 
 # Glance
 ||glance.com^
 ||glance-cdn.com^
 ||glanceapis.com^
 
-# Google
-appsgenaiserver-pa.clients6.google.com
-
-# Meta
-graph.facebook.com
-graph-fallback.facebook.com
-
 # Mozilla
 push.services.mozilla.com
-
-# Roku
-||rkdms.com^
-||ads.roku.com^
-||captive.roku.com^
-||cloudservices.roku.com^
-||logs.roku.com^
-||sb.roku.com^
-||rokutime.com^
-navigation.sr.roku.com
-osm-ads.delivery.roku.com
-
-# Xfinity
-doh.xfinity.com
